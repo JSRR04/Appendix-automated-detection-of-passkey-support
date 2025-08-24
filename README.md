@@ -25,30 +25,6 @@ The project is based on three distinct detection methods:
     * `ground_truth.csv`: The primary dataset of manually verified websites used for evaluation.
     * `urls.txt`: A list of the URLs that were scraped.
 
-### Usage and Reproduction
-
-To reproduce the results, you can run each Python script independently.
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [your-repository-url]
-    cd [your-repository-name]
-    ```
-
-2.  **Install dependencies:**
-    The tasks require Python and a browser automation library (e.g., Playwright).
-    ```sh
-    pip install playwright
-    playwright install
-    ```
-
-3.  **Run the tasks:**
-    Each scraper can be executed from the command line. For example:
-    ```sh
-    python code/api_scraper.py
-    ```
-    You may need to provide command-line arguments to specify the input data files. Please see the script's internal documentation for details.
-
 ### License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
