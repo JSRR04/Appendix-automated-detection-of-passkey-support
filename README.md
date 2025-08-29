@@ -23,7 +23,14 @@ The project is based on three distinct detection methods:
     * `network_scraper.py`: The Python script for the network traffic analysis.
 * `data/`:
     * `ground_truth.csv`: The primary dataset of manually verified websites used for evaluation.
-    * `urls.txt`: A list of the URLs that were scraped.
+    * `Lastpass_auth.txt`: A list of the URLs that were scraped.
+    * `navigator_methods.txt`: The list with Terms for the static code analysis.
+* `results/`:
+    * `api_scraper`: The folder with the exported results for the dynamic API analysis.
+    * `elements_found`: The folder with the exported results formatted as HTML list for all three analysis.
+    * `network_scraper`: The folder with the exported results for the network traffic analysis.
+    * `scraper_comparison`: The folder with the exported results for comparison of all three analysis.
+    * `term_scraper`: The folder with the exported results for the static code analysis.
 
 ### License
 
