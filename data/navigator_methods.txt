@@ -1,0 +1,19 @@
+## lines with '##' will be ignored, words with a space between as separation will be searched within the context window
+## get & create methods, publickey: = passkey option, identity = FedCM option, federated = old federated option
+navigator.credentials.get(
+navigator.credentials.get({publicKey:
+navigator.credentials.get({identity:
+navigator.credentials.get({federated:
+navigator.credentials.get({otp:
+navigator.credentials.create(
+navigator.credentials.create({publicKey:
+navigator.credentials.create({identity:
+navigator.credentials.create({federated:
+## ui option for unattended passkey detection
+autocomplete webauthn
+## simplewebauthn navigator.credentials.get() wrapper call from client side
+startAuthentication()
+## Checks if an authenticator is available
+isUserVerifyingPlatformAuthenticatorAvailable
+## rpID needed for connecting and identifying the website
+rpid:
