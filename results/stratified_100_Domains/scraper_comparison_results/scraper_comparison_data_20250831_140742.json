@@ -1,0 +1,38 @@
+{
+  "network_scraper": {
+    "total_domains": 100,
+    "total_urls": 100,
+    "avg_duration_per_url": 30.373372787380067,
+    "secure_html_only": 12,
+    "secure_specific_only": 9,
+    "secure_both": 12,
+    "secure_passkey": 33,
+    "possible_passkey": 22,
+    "fedcm": 0,
+    "weighted_total": 45
+  },
+  "api_scraper": {
+    "total_domains": 100,
+    "total_urls": 100,
+    "avg_duration_per_url": 29.933797835040004,
+    "secure_html_only": 9,
+    "secure_specific_only": 2,
+    "secure_both": 18,
+    "secure_passkey": 29,
+    "possible_passkey": 14,
+    "fedcm": 14,
+    "weighted_total": 47
+  },
+  "term_scraper": {
+    "total_domains": 100,
+    "total_urls": 100,
+    "avg_duration_per_url": 27.58689692,
+    "secure_html_only": 0,
+    "secure_specific_only": 17,
+    "secure_both": 0,
+    "secure_passkey": 17,
+    "possible_passkey": 51,
+    "fedcm": 1,
+    "weighted_total": 17
+  }
+}

@@ -1,0 +1,1402 @@
+{
+  "https://klemn.net": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://microsoftonline.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 2,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://heexy.org": {
+    "url_count": 1,
+    "secure_indicators": 5,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://simply.com": {
+    "url_count": 1,
+    "secure_indicators": 8,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://hardwax.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://customerping.ai": {
+    "url_count": 1,
+    "secure_indicators": 7,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://adobe.com": {
+    "url_count": 1,
+    "secure_indicators": 4,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://salad.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": true
+  },
+  "https://notion.so": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 4,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://bestbuy.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://corbado.com": {
+    "url_count": 1,
+    "secure_indicators": 4,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://eslgaming.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://konami.net": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 1,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://fintual.cl": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://eduid.ch": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://ah.nl": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://pixiv.net": {
+    "url_count": 1,
+    "secure_indicators": 11,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://sony.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://bitwarden.com": {
+    "url_count": 1,
+    "secure_indicators": 12,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": true
+  },
+  "https://fairfaxcounty.gov": {
+    "url_count": 1,
+    "secure_indicators": 6,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://google.com": {
+    "url_count": 1,
+    "secure_indicators": 5,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": true
+  },
+  "https://sumup.com": {
+    "url_count": 1,
+    "secure_indicators": 4,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://telekom.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://hancock.ink": {
+    "url_count": 1,
+    "secure_indicators": 10,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://moneybird.com": {
+    "url_count": 1,
+    "secure_indicators": 7,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://cloze.com": {
+    "url_count": 1,
+    "secure_indicators": 6,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://as207960.net": {
+    "url_count": 1,
+    "secure_indicators": 7,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://tender.run": {
+    "url_count": 1,
+    "secure_indicators": 11,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": true
+  },
+  "https://authsignal.com": {
+    "url_count": 1,
+    "secure_indicators": 11,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://gov.au": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 2,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://formextractorai.com": {
+    "url_count": 1,
+    "secure_indicators": 5,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://coveto.de": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://bridgecrest.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://freeprintsapp.de": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://bmwgroup.com": {
+    "url_count": 1,
+    "secure_indicators": 4,
+    "possible_indicators": 0,
+    "errors": 2,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://lgtm.lol": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 1,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://docusign.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 1,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://haeppie.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 2,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "http://homedepot.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://boursobank.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://fusionauth.io": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://chekspend.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://discourse.org": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://canva.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://devolutions.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://indeed.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://visma.com": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://kayak.de": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 3,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://intastellaraccounts.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://amazon.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://fleeps.co": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://bolt.eu": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://cash.app": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://link.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://apple.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 1,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://horizon.pics": {
+    "url_count": 1,
+    "secure_indicators": 3,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://ebay.com": {
+    "url_count": 1,
+    "secure_indicators": 1,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "http://bagou450.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://icloud.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://link3.to": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://cloudflare.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://wikipedia.org": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://pinterest.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 4,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://digicert.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://netflix.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://spotify.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://vimeo.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://bitly.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://wordpress.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://reddit.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 5,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://ui.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://archive.org": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://zoom.us": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://dropbox.com": {
+    "url_count": 1,
+    "secure_indicators": 1,
+    "possible_indicators": 0,
+    "errors": 1,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://opera.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://flickr.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 2,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://twitch.tv": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://steampowered.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://linktr.ee": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://soundcloud.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://medium.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 4,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://openai.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://etsy.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://scribd.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://patreon.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 1,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://slack.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://epicgames.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://grammarly.com": {
+    "url_count": 1,
+    "secure_indicators": 4,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": true,
+    "has_secure_api": true,
+    "has_secure_term": false
+  },
+  "https://eventbrite.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://booking.com": {
+    "url_count": 1,
+    "secure_indicators": 1,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://godaddy.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://oracle.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 1,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://atlassian.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 4,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://lyft.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://cisco.com": {
+    "url_count": 1,
+    "secure_indicators": 2,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": true
+  },
+  "https://airbnb.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://tripadvisor.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://nytimes.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 2,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://washingtonpost.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  },
+  "https://bbc.com": {
+    "url_count": 1,
+    "secure_indicators": 0,
+    "possible_indicators": 0,
+    "errors": 0,
+    "scrapers_used": [
+      "term_scraper",
+      "network_scraper",
+      "api_scraper"
+    ],
+    "has_secure_network": false,
+    "has_secure_api": false,
+    "has_secure_term": false
+  }
+}

@@ -1,0 +1,101 @@
+﻿Title,nr,richtig erkannt?,bemerkeung,category,main_url,login_url,criteria_met,passkey_support
+simply.com,1,Yes,,passkey_meets_criteria,https://www.simply.com/de/,https://www.simply.com/de/controlpanel/login/?return=%2Fde%2Fcontrolpanel%2F,TRUE,TRUE
+hardwax.com,2,No,,passkey_meets_criteria,https://hardwax.com/,https://hardwax.com/,TRUE,TRUE
+notion.com,3,Yes,,passkey_meets_criteria,https://www.notion.com/,https://www.notion.so/login?from=marketing&pathname=%2F,TRUE,TRUE
+klemn.net,4,Yes,,passkey_meets_criteria,https://klemn.net/,https://klemn.net/authenticate,TRUE,TRUE
+heexy.org,5,Yes,,passkey_meets_criteria,https://heexy.org/,https://account.heexy.org/,TRUE,TRUE
+microsoft.com,6,Yes,,passkey_meets_criteria,https://www.microsoft.com/de-de/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook?deeplink=%2Fowa%2F&sdf=0&market=de,"https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=9199bf20-a13f-4107-85dc-02114787ef48&scope=https%3A%2F%2Foutlook.office.com%2F.default%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Foutlook.live.com%2Fmail%2F&client-request-id=8849a0fd-9e30-b0ea-1ded-1ec713a1f065&response_mode=fragment&client_info=1&prompt=select_account&nonce=0197f495-778b-78ae-b346-1703f3771eee&state=eyJpZCI6IjAxOTdmNDk1LTc3OGItNzE3Ni05NWZlLTA2YzA5YmE1ZDViNyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=4.12.0&response_type=code&code_challenge=gTrszQrjEE1y0XeGSZflxpQ9Whr2LnF3fP6IpyfHdHU&code_challenge_method=S256&cobrandid=ab0455a0-8d03-46b9-b18b-df2f57b9e44c&fl=dob,flname,wld",TRUE,TRUE
+customerping.ai,7,Yes,,passkey_meets_criteria,https://customerping.ai/,https://customerping.ai/app/login/,TRUE,TRUE
+salad.com,8,Yes,,passkey_meets_criteria,https://salad.com/,https://salad.com/login?redirect_uri=store,TRUE,TRUE
+bestbuy.com,9,No,,passkey_meets_criteria,https://bestbuy.com/,https://www.bestbuy.com/identity/signin?token=tid%3A3661ec8c-5c0e-11f0-aa81-0e981d7c7b8f,TRUE,TRUE
+adobe.com,10,Yes,,passkey_meets_criteria,https://www.adobe.com/,https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2Fhomepage_milo%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%252Fhome%2523old_hash%253D%2526from_ims%253Dtrue%253Fclient_id%253Dhomepage_milo%2526api%253Dauthorize%2526scope%253DAdobeID%252Copenid%252Cgnav%252Cpps.read%252Cfirefly_api%252Cadditional_info.roles%252Cread_organizations%252Caccount_cluster.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.47.0-15-gd6558d5%2522%252C%2522nonce%2522%253A%25221728820188406908%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=homepage_milo&scope=AdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&state=%7B%22jslibver%22%3A%22v2-v0.47.0-15-gd6558d5%22%2C%22nonce%22%3A%221728820188406908%22%7D&relay=9c5f6b65-982a-4e4f-a5f1-eb895f39b9c9&locale=en_US&flow_type=token&idp_flow_type=login&ab_test=epp-avoid-race-condition&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fwww.adobe.com%2Fhome%23old_hash%3D%26from_ims%3Dtrue%3Fclient_id%3Dhomepage_milo%26api%3Dauthorize%26scope%3DAdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&use_ms_for_expiry=true#/,TRUE,TRUE
+corbado.com,11,Yes,,passkey_meets_criteria,https://www.corbado.com/,https://app.corbado.com/?pk_vid=0be544d8f995f05f175214030824d1ff#login-init,TRUE,TRUE
+account.eslgaming.com,12,No,,passkey_meets_criteria,https://account.eslgaming.com/login,https://account.eslgaming.com/login,TRUE,TRUE
+my.konami.net,13,Yes,,passkey_meets_criteria,https://my.konami.net/de,https://my.konami.net/de/signin,TRUE,TRUE
+fintual.cl,14,No,,passkey_meets_criteria,https://fintual.cl/,https://fintual.cl/f/sign-in/,TRUE,TRUE
+eduid.ch,15,No,,passkey_meets_criteria,https://eduid.ch/,https://login.eduid.ch/idp/profile/oidc/authorize?execution=e1s2,TRUE,TRUE
+ah.nl,16,No,,passkey_meets_criteria,https://www.ah.nl/,https://login.ah.nl/login,TRUE,TRUE
+pixiv.net,17,Yes,,passkey_meets_criteria,https://pixiv.net/,https://accounts.pixiv.net/login?return_to=https%3A%2F%2Fwww.pixiv.net%2Fen%2F&lang=en&source=pc&view_type=page,TRUE,TRUE
+playstation.com,18,Yes,,passkey_meets_criteria,https://www.playstation.com/de-de/,https://my.account.sony.com/sonyacct/signin/?duid=000000070009010052965e3c9576597efa532d4692cb430811aea154f828fb3464bb8fd66d3839c2&response_type=code&client_id=e4a62faf-4b87-4fea-8565-caaabb3ac918&scope=web%3Acore&access_type=offline&state=6530d8364d5f940a04d1bcd5d405698335b326f2256b658c7fd158c0b08475da&service_entity=urn%3Aservice-entity%3Apsn&ui=pr&smcid=web%3Apdc&redirect_uri=https%3A%2F%2Fweb.np.playstation.com%2Fapi%2Fsession%2Fv1%2Fsession%3Fredirect_uri%3Dhttps%253A%252F%252Fio.playstation.com%252Fcentral%252Fauth%252Flogin%253Flocale%253Dde_DE%2526postSignInURL%253Dhttps%25253A%25252F%25252Fwww.playstation.com%25252Fde-de%25252F%2526cancelURL%253Dhttps%25253A%25252F%25252Fwww.playstation.com%25252Fde-de%25252F%26x-psn-app-ver%3D%2540sie-ppr-web-session%252Fsession%252Fv5.40.7&auth_ver=v3&error=login_required&error_code=4165&error_description=User+is+not+authenticated&no_captcha=true&cid=275519ce-2614-4b00-8027-a1e185010c4e#/signin/input/id,TRUE,TRUE
+community.bitwarden.com,19,Yes,,passkey_meets_criteria,https://community.bitwarden.com/,https://community.bitwarden.com/login,TRUE,TRUE
+fairfaxcounty.gov,20,Yes,,passkey_meets_criteria,https://www.fairfaxcounty.gov/myfairfax/portal/ffx-index.jsp,https://www.fairfaxcounty.gov/myfairfax/portal/ffx-index.jsp,TRUE,TRUE
+google.com,21,Yes,,passkey_meets_criteria,https://www.google.com/,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&dsh=S-1743993197%3A1752150344364252&ec=futura_exp_og_so_72776762_e&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=de&ifkv=AdBytiNtn9ggcJZB8MHg49XgyoUeuV0uuYiYeaYsTeNN-RNhvpsAERV7NvFv2paDdNA5IbNiMU2Z7g,TRUE,TRUE
+sumup.com,22,Yes,,passkey_meets_criteria,https://www.sumup.com/en-us/,https://auth.sumup.com/flows/login?client_id=dashboard&locale=en-gb&login_challenge=abdc9f52429142349679a42808a17f5e&redirect_url=%2Flogin,TRUE,TRUE
+telekom.de,23,Yes,,passkey_meets_criteria,https://www.telekom.de/start,https://accounts.login.idm.telekom.com/oauth2/auth?scope=openid&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A+%7B%22essential%22%3A+true%7D%7D%7D&response_type=code&state=sCNmNDn2y1RwH2Zu1bSHFIK8LVYwQCoS&redirect_uri=https%3A%2F%2Fwww.telekom.de%2Fkundencenter%2Fredirecturi&nonce=zsr8IKAKFxMqEgP1pK5uGut3qW83jEe9&client_id=10LIVESAM30000004901PHOENIXCSC0000000000,TRUE,TRUE
+hancock.ink,24,Yes,,passkey_meets_criteria,https://hancock.ink/,https://idp.hancock.ink/v0,TRUE,TRUE
+moneybird.com,25,Yes,,passkey_meets_criteria,https://www.moneybird.com/,https://moneybird.com/login,TRUE,TRUE
+ai.cloze.com,26,Yes,,passkey_meets_criteria,https://ai.cloze.com/,https://www.cloze.com/in/,TRUE,TRUE
+glauca.digital,27,Yes,,passkey_meets_criteria,https://glauca.digital/,https://sso.as207960.net/auth/realms/master/protocol/openid-connect/auth?client_id=website&redirect_uri=https%3A%2F%2Fglauca.digital%2F&state=d1bc3e70-bc5e-449f-9aff-eb04447a1ac4&response_mode=fragment&response_type=code&scope=openid&nonce=a59dae62-291d-41ec-84a2-0d4ac22e5a08&code_challenge=d87W_i7d5Qc3lPr8VZx4IPGViOTg7CIiPhuE8LLM5qQ&code_challenge_method=S256,TRUE,TRUE
+tender.run,28,Yes,,passkey_meets_criteria,https://tender.run/,https://app.tender.run/login,TRUE,TRUE
+authsignal.com,29,Yes,,passkey_meets_criteria,https://www.authsignal.com/,https://portal.authsignal.com/users/sign_in,TRUE,TRUE
+my.gov.au,30,No,,passkey_meets_criteria,https://my.gov.au/,https://login.my.gov.au/las/mygov-login?execution=e1s1,TRUE,TRUE
+formx.ai,1,No,passkey ui erkannt? nicht auffindbar andere seite?,passkey_no_criteria,https://www.formx.ai/,https://auth.formextractorai.com/signup?client_id=bfd196b31c218423&redirect_uri=https%3A%2F%2Fformextractorai.com%2Fauthorized&state=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJpbnZpdGF0aW9uX2NvZGUiOm51bGwsImRpc3RpbmN0X2lkIjoiMDE4ZWU0ODEtMzljYy03NGJmLTk4MGQtZjVlN2NmMTM3ZTM4P2Rpc3RpbmN0X2lkPTAxOTdmNDNhLTI1ODMtNzRkZi04ODJhLTYwYWRiYzUyMGMwZiIsImRvX25vdF90cmFjayI6ZmFsc2UsInJlZ2lvbiI6InR3LWdjcCJ9.zp_rnzivTk41Zv10BUoSkXH1uAJDm3QJwr_LO77AQN8Yp1SMSkAdsEUTwD-aQWhLWRPsxYcGHtTy0Z4SanD5eA&x_settings_action_id=,FALSE,TRUE
+coveto.de,2,Yes,,passkey_no_criteria,https://www.coveto.de/,https://www.coveto.de/login,FALSE,TRUE
+www2.bridgecrest.com,3,Yes,,passkey_no_criteria,https://www2.bridgecrest.com/,https://auth.bridgecrest.com/u/login/identifier?state=hKFo2SBWUFRJWUpYU2Z0aElrSWhvZDZoazBSbVh2Slc5TGIwbKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDJrdWljVVUtUFgxbnVsS05JNHV1UjZjclFhRldLUGM3o2NpZNkgSVBkc29sUjFUYWJHQklLZklqR1RnVnZMWUlheGt1RVI,FALSE,TRUE
+freeprintsapp.de,4,Yes,,passkey_no_criteria,https://www.freeprintsapp.de/?freeprintsnow,https://www.freeprintsapp.de/?freeprintsnow,FALSE,TRUE
+bmw.com,5,No,term/network: get&create erkannt,passkey_no_criteria,https://www.bmw.com/en/index.html,https://customer.bmwgroup.com/oneid/#/login?client=bmwwebcom&country=DE&language=de&brand=bmw&scope=svds%20remote_services%20vehicle_data%20authenticate_user%20smacc%20fupo%20cesim%20perseus&response_type=code&redirect_uri=https%3A%2F%2Fwww.bmw.de%2Fstatic%2Flogin%2Ftoken-handler&state=eyJyZXR1cm5VUkwiOiJodHRwczovL3d3dy5ibXcuZGUvZGUvbmV1ZmFocnpldWdlLmh0bWw/dGw9Z3JwLXdkcGwtYmNvbS1taXgtbW4tLi1uc2NmLS4tLi0mZmx5b3V0PW9wZW4iLCJkYXRhIjp7Imxhbmd1YWdlIjoiZGUiLCJjb3VudHJ5IjoiREUiLCJicmFuZCI6ImJtdyJ9fQ==&epaas_consenttoken=197ee68abf4a7b5a2a24fb1376b000000000ZGVfREV8ZHMyfmJtdy1kZQ,FALSE,TRUE
+lgtm.lol,6,Yes,,passkey_no_criteria,https://lgtm.lol/,https://lgtm.lol/signin,FALSE,TRUE
+docusign.com,7,No,term/network: get&create erkannt,passkey_no_criteria,https://www.docusign.com/,https://apps.docusign.com/send,FALSE,TRUE
+haeppie.com,8,Yes,,passkey_no_criteria,https://haeppie.com/,https://be.haeppie.com/auth,FALSE,TRUE
+homedepot.com,9,Yes,,passkey_no_criteria,http://www.homedepot.com/,http://www.homedepot.com/,FALSE,TRUE
+boursorama.com,10,No,term/network: get erkannt + webauthn url endpoint,passkey_no_criteria,https://www.boursorama.com/,https://clients.boursobank.com/connexion/?at_medium=autopromo&at_campaign=header_portail_connexion,FALSE,TRUE
+fusionauth.io,11,Yes,,passkey_no_criteria,https://fusionauth.io/,https://login.fusionauth.io/oauth2/authorize?client_id=c50329fa-93e5-4618-8d9f-73d0ab069a54&scope=offline_access+profile&response_type=code&redirect_uri=https%3A%2F%2Faccount.fusionauth.io%2Flogin&state=CYKx3jG7MD2xaXKzxBVV55nfcSxbB0zu7rC57WzkBbA,FALSE,TRUE
+chekspend.com,12,No,term/network:  create erkannt,passkey_no_criteria,https://chekspend.com/,https://secure.chekspend.com/#/login,FALSE,TRUE
+discourse.org,13,Yes,,passkey_no_criteria,https://discourse.org/,https://discourse.org/,FALSE,TRUE
+canva.com,14,Yes,,passkey_no_criteria,https://www.canva.com/de_de/,https://www.canva.com/de_de/,FALSE,TRUE
+devolutions.net,15,Yes,,passkey_no_criteria,https://devolutions.net/,https://login.devolutions.com/op/login,FALSE,TRUE
+de.indeed.com,16,Yes,,passkey_no_criteria,https://de.indeed.com/?r=us,https://secure.indeed.com/auth?hl=de_DE&co=DE&continue=https%3A%2F%2Fde.indeed.com%2F%3Fr%3Dus&tmpl=desktop&from=gnav-util-homepage&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fhl%3Dde_DE%26co%3DDE%26from%3Dgnav-homepage&empContinue=https%3A%2F%2Faccount.indeed.com%2Fmyaccess,FALSE,TRUE
+dinero.dk,17,No,term/network: get&create erkannt,passkey_no_criteria,https://dinero.dk/,https://connect.visma.com/?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Ddinero%26redirect_uri%3Dhttps%253A%252F%252Fapp.dinero.dk%252Fsignin-oidc%26response_type%3Dcode%2520id_token%26scope%3Dopenid%2520profile%2520email%2520roles%26response_mode%3Dform_post%26nonce%3D638877434287129410.ZTU5OGQ4MWUtNDg2OS00NGQ1LWE3MzctNTQwOWJkY2RhNjJhMWVkNzNmMDctNGNmMy00YTdiLWE1YjYtMjdmNmExNWMzODY2%26state%3DCfDJ8IiuaGEVxBVJjTO5tUpz94LUDraTOdXj-qVfN2PGMrkQrzdRIYjUOQcLVS2gXNSROWb512ezTACESRaZSuNkCWCzQBEIxmng0GCq2YWn15-OH70--r22EbKxjQrmpnPDPzPVUXoTIYAWVcNAHxOQtbgTCmKOmIJe0XI_hxylqkIKHIEEB3g4vf4yRXgtT21DENTlVRK6i9LIV15Cty54ka0sx7OKZVbU2UmsjbyJ_1aWIrOGCyi7TzEkz0dJ3h7qXL8IRw8V5HEcY77Obh_df163EzK7quT_W7SNvyglJEHZ%26x-client-SKU%3DID_NET8_0%26x-client-ver%3D7.1.2.0,FALSE,TRUE
+kayak.com,18,Yes,,passkey_no_criteria,https://kayak.com/,https://www.kayak.de/?ispredir=true,FALSE,TRUE
+about.intastellaraccounts.com,19,Yes,,passkey_no_criteria,https://about.intastellaraccounts.com/,https://www.intastellaraccounts.com/signin/v2/ws/identifier?continue=my.intastellaraccounts.com&entryFlow=bXkuaW50YXN0ZWxsYXJhY2NvdW50cy5jb20=&passive=true&flowName=GeneralOAuthFlow&Entry=authlogin,FALSE,TRUE
+amazon.com,20,No,network/api: button FP mit passkey begriff,passkey_no_criteria,https://www.amazon.com/,https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0,FALSE,TRUE
+fleeps.co,21,Yes,,passkey_no_criteria,https://fleeps.co/,https://auth.fleeps.co/u/login/identifier?state=hKFo2SBXTnpKcDM4Z05jMXN4azBGaUlTUzliME9IdDkydnExS6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHlTVVNCYnFENXZadnV2T0pmSXlicUJHQzBacVJmNW9to2NpZNkgeVFjdVJoS1I1WFlsYUFSNUlFSW9NNk9OSEFIZ21WY1M,FALSE,TRUE
+bolt.eu,22,Yes,,passkey_no_criteria,https://bolt.eu/de-de/,https://bolt.eu/de-de/,FALSE,TRUE
+cash.app,23,No,term/network: get erkannt,passkey_no_criteria,https://cash.app/,https://cash.app/login,FALSE,TRUE
+link.com,24,No,term: get&create erkannt,passkey_no_criteria,https://link.com/de,https://app.link.com/login,FALSE,TRUE
+apple.com,25,Yes,,passkey_no_criteria,https://www.apple.com/,https://secure8.store.apple.com/shop/signIn?ssi=4AAABl-otP_kBIOdnGCojucI0uhGgTGGIvISNd744a04HiRF7wfD-MLXPAAAAGWh0dHBzOi8vd3d3LmFwcGxlLmNvbS98fHwAAgGYgNTtD1kTHQMGTZz5KXI2PPQXdgU2X01L28JEMLeS7Q,FALSE,TRUE
+horizon.pics,26,Yes,entspricht kriterien hat passkey button,passkey_no_criteria,https://horizon.pics/,https://horizon.pics/auth/login,FALSE,TRUE
+ebay.com,27,No,network: create erkannt,passkey_no_criteria,https://www.ebay.com/,https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.com%2Fmye%2Fmyebay%2Fsummary&sgfl=sm&smuid=4e3b66f3-5d83-11f0-bb8b-f7e43ec67368,FALSE,TRUE
+bagou450.com,28,Yes,,passkey_no_criteria,http://bagou450.com/,http://bagou450.com/,FALSE,TRUE
+icloud.com,29,Yes,,passkey_no_criteria,https://www.icloud.com/,https://www.icloud.com/,FALSE,TRUE
+link3.to,30,Yes,,passkey_no_criteria,https://link3.to/,https://link3.to/,FALSE,TRUE
+cloudflare.com,1,Yes,,no_passkey,https://cloudflare.com,https://dash.cloudflare.com/login,FALSE,FALSE
+wikipedia.org,2,Yes,,no_passkey,https://wikipedia.org,https://en.wikipedia.org/wiki/Special:UserLogin,FALSE,FALSE
+pinterest.com,3,Yes,,no_passkey,https://pinterest.com,https://www.pinterest.com/login/,FALSE,FALSE
+digicert.com,4,Yes,,no_passkey,https://digicert.com,https://www.digicert.com/account/login.php,FALSE,FALSE
+netflix.com,5,Yes,,no_passkey,https://netflix.com,https://www.netflix.com/login,FALSE,FALSE
+spotify.com,6,No,google idp login erkannt,no_passkey,https://spotify.com,https://accounts.spotify.com/login,FALSE,FALSE
+vimeo.com,7,Yes,,no_passkey,https://vimeo.com,https://vimeo.com/log_in,FALSE,FALSE
+bitly.com,8,Yes,,no_passkey,https://bitly.com,https://app.bitly.com/,FALSE,FALSE
+wordpress.com,9,Yes,,no_passkey,https://wordpress.com,https://wordpress.com/log-in,FALSE,FALSE
+reddit.com,10,Yes,,no_passkey,https://reddit.com,https://www.reddit.com/login,FALSE,FALSE
+ui.com,11,No,term_scraper: get/create gefunden,no_passkey,https://ui.com,https://account.ui.com/login,FALSE,FALSE
+archive.org,12,Yes,,no_passkey,https://archive.org,https://archive.org/account/login,FALSE,FALSE
+zoom.us,13,Yes,,no_passkey,https://zoom.us,https://zoom.us/signin,FALSE,FALSE
+dropbox.com,14,No,term_scraper: get gefunden,no_passkey,https://dropbox.com,https://www.dropbox.com/login,FALSE,FALSE
+opera.com,15,Yes,,no_passkey,https://opera.com,https://auth.opera.com/account/login,FALSE,FALSE
+flickr.com,16,Yes,,no_passkey,https://flickr.com,https://www.flickr.com/signin,FALSE,FALSE
+twitch.tv,17,Yes,,no_passkey,https://twitch.tv,https://www.twitch.tv/login,FALSE,FALSE
+steampowered.com,18,Yes,,no_passkey,https://steampowered.com,https://store.steampowered.com/login/,FALSE,FALSE
+linktr.ee,19,Yes,,no_passkey,https://linktr.ee,https://linktr.ee/login,FALSE,FALSE
+soundcloud.com,20,Yes,,no_passkey,https://soundcloud.com,https://soundcloud.com/signin,FALSE,FALSE
+medium.com,21,Yes,,no_passkey,https://medium.com,https://medium.com/m/signin,FALSE,FALSE
+openai.com,22,Yes,,no_passkey,https://openai.com,https://platform.openai.com/login,FALSE,FALSE
+etsy.com,23,Yes,,no_passkey,https://etsy.com,https://www.etsy.com/signin,FALSE,FALSE
+scribd.com,24,Yes,,no_passkey,https://scribd.com,https://www.scribd.com/login,FALSE,FALSE
+patreon.com,25,Yes,,no_passkey,https://patreon.com,https://www.patreon.com/login,FALSE,FALSE
+slack.com,26,Yes,,no_passkey,https://slack.com,https://slack.com/signin,FALSE,FALSE
+epicgames.com,27,Yes,,no_passkey,https://epicgames.com,https://www.epicgames.com/id/login,FALSE,FALSE
+grammarly.com,28,No,google als idp erkannt indirekte unterstützung,no_passkey,https://grammarly.com,https://www.grammarly.com/signin,FALSE,FALSE
+eventbrite.com,29,Yes,,no_passkey,https://eventbrite.com,https://www.eventbrite.com/signin/,FALSE,FALSE
+booking.com,30,No,term_scraper: get gefunden,no_passkey,https://booking.com,https://account.booking.com/sign-in,FALSE,FALSE
+godaddy.com,31,Yes,,no_passkey,https://godaddy.com,https://sso.godaddy.com/,FALSE,FALSE
+oracle.com,32,Yes,,no_passkey,https://oracle.com,https://signon.oracle.com/signin,FALSE,FALSE
+atlassian.com,33,Yes,,no_passkey,https://atlassian.com,https://id.atlassian.com/login,FALSE,FALSE
+lyft.com,34,Yes,,no_passkey,https://lyft.com,https://account.lyft.com/auth,FALSE,FALSE
+cisco.com,35,No,term_scraper: get/create gefunden,no_passkey,https://cisco.com,https://id.cisco.com/signin,FALSE,FALSE
+airbnb.com,36,Yes,,no_passkey,https://airbnb.com,https://www.airbnb.com/login,FALSE,FALSE
+tripadvisor.com,37,Yes,,no_passkey,https://tripadvisor.com,https://www.tripadvisor.com/RegistrationController,FALSE,FALSE
+nytimes.com,38,Yes,,no_passkey,https://nytimes.com,https://myaccount.nytimes.com/auth/login,FALSE,FALSE
+washingtonpost.com,39,Yes,,no_passkey,https://washingtonpost.com,https://www.washingtonpost.com/subscribe/signin/?next_url=&nid=top_pb_signin&arcId=&itid=nav_sign_in,FALSE,FALSE
+bbc.com,40,Yes,,no_passkey,https://bbc.com,https://account.bbc.com/signin,FALSE,FALSE

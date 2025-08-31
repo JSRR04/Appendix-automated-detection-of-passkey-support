@@ -1,0 +1,30 @@
+Scraper Comparison Results Summary - 20250831_140742
+============================================================
+
+Network Scraper:
+  Total Domains: 100
+  Total URLs: 100
+  Average Duration/URL: 30.4s
+  Secure Indicators: 33
+  Possible Indicators: 22
+  FedCM Indicators: 0
+  Success Rate: 33.0%
+
+Api Scraper:
+  Total Domains: 100
+  Total URLs: 100
+  Average Duration/URL: 29.9s
+  Secure Indicators: 29
+  Possible Indicators: 14
+  FedCM Indicators: 14
+  Success Rate: 29.0%
+
+Term Scraper:
+  Total Domains: 100
+  Total URLs: 100
+  Average Duration/URL: 27.6s
+  Secure Indicators: 17
+  Possible Indicators: 51
+  FedCM Indicators: 1
+  Success Rate: 17.0%
+
