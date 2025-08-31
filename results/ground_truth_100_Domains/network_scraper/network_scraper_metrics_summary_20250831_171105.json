@@ -1,0 +1,43 @@
+{
+  "scraper_type": "network_scraper",
+  "analysis_timestamp": "20250831_171105",
+  "standardized_metrics": {
+    "total_domains": 98,
+    "total_urls": 100,
+    "secure_html_only": 25,
+    "secure_specific_only": 2,
+    "secure_both": 50,
+    "total_secure": 77,
+    "weighted_total": 127,
+    "possible_passkey": 53,
+    "fedcm": 0,
+    "errors": 5,
+    "task_indicators": {
+      "Network Scraper Ground-Truth": {
+        "secure_html_only": 25,
+        "secure_specific_only": 2,
+        "secure_both": 50,
+        "possible_passkey": 53,
+        "fedcm": 0,
+        "total_domains": 98
+      }
+    }
+  },
+  "timeout_analysis": [
+    {
+      "task_name": "Network Scraper Ground-Truth",
+      "timeout": 30,
+      "total_urls": 100,
+      "0-50%": 1,
+      "50-100%": 69,
+      "100-150%": 26,
+      ">150%": 4
+    }
+  ],
+  "export_info": {
+    "total_domains_analyzed": 98,
+    "total_urls_analyzed": 100,
+    "classification_method": "standardized_domain_based",
+    "weighted_scoring": true
+  }
+}

@@ -1,0 +1,7 @@
+task_label,total,total_duration,duration_formatted,0-50%,50-100%,100-150%,>150%
+"Network Scraper Stratifizierte Validierungsstichprobe (100 Domains)
+(network_scraper / 30s)",100,3037.3372787380067,00:50:37,1,60,37,2
+"API Scraper Stratifizierte Validierungsstichprobe (100 Domains)
+(api_scraper / 30s)",100,2993.3797835040004,00:49:53,1,51,47,1
+"Term Scraper Stratifizierte Validierungsstichprobe (100 Domains)
+(term_scraper / 30s)",100,2736.4282060000005,00:45:36,1,97,2,0

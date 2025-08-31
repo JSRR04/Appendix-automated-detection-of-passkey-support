@@ -1,0 +1,4 @@
+collection,task_name,total_domains,domains_with_indicators,success_rate
+term_scraper,Term Scraper Ground-Truth,98,83,84.6938775510204
+api_scraper,API Scraper Ground-Truth,98,78,79.59183673469387
+network_scraper,Network Scraper Ground-Truth,98,77,78.57142857142857

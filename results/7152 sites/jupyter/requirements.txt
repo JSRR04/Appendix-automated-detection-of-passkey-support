@@ -1,6 +1,0 @@
-#./jupyter/requirements.txt
-pymongo
-pandas
-matplotlib
-seaborn
-mlxtend

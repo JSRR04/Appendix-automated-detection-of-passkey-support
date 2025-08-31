@@ -1,7 +1,0 @@
-task_label,total,total_duration,duration_formatted,0-50%,50-100%,100-150%,>150%
-"Network Scraper Lastpass v1
-(network_scraper / 30s)",7151,259727.20060244028,72:08:47,152,2204,3544,1251
-"API Scraper Lastpass v1
-(api_scraper / 30s)",7152,241261.1411313687,67:01:01,149,1559,4804,640
-"Term Scraper Lastpass v1
-(term_scraper / 30s)",7152,217604.46190700028,60:26:44,149,42,6933,28

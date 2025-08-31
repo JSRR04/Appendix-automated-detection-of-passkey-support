@@ -1,4 +1,0 @@
-collection,task_name,total_domains,domains_with_indicators,success_rate
-network_scraper,Network Scraper Stratifizierte Validierungsstichprobe (100 Domains),100,33,33.0
-api_scraper,API Scraper Stratifizierte Validierungsstichprobe (100 Domains),100,29,28.999999999999996
-term_scraper,Term Scraper Stratifizierte Validierungsstichprobe (100 Domains),100,17,17.0

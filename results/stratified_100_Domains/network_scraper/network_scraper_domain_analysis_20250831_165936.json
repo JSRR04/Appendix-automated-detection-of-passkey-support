@@ -1,0 +1,3102 @@
+[
+  {
+    "domain": "https://klemn.net",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://microsoftonline.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://heexy.org",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 1,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://simply.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 1,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://hardwax.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://customerping.ai",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 1,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://adobe.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://salad.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://notion.so",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bestbuy.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://corbado.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://eslgaming.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://konami.net",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://fintual.cl",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://eduid.ch",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://ah.nl",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://pixiv.net",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 2,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://sony.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bitwarden.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 2,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://fairfaxcounty.gov",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://google.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://sumup.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://telekom.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://hancock.ink",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 2,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://moneybird.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://cloze.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 0,
+        "secure_requests": 1,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://as207960.net",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://tender.run",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 2,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://authsignal.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 2,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://gov.au",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://formextractorai.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 1,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://coveto.de",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bridgecrest.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://freeprintsapp.de",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bmwgroup.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://lgtm.lol",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://docusign.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://haeppie.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "http://homedepot.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://boursobank.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 1,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://fusionauth.io",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://chekspend.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://discourse.org",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://canva.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://devolutions.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://indeed.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://visma.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://kayak.de",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://intastellaraccounts.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://amazon.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": true,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://fleeps.co",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bolt.eu",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://cash.app",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://link.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://apple.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 1,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://horizon.pics",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": true,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 2
+    },
+    "indicators": {
+      "secure_html_found": true,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 1,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://ebay.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "http://bagou450.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://icloud.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://link3.to",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://cloudflare.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://wikipedia.org",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://pinterest.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://digicert.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://netflix.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://spotify.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 1,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://vimeo.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bitly.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://wordpress.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://reddit.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://ui.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://archive.org",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://zoom.us",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://dropbox.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://opera.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://flickr.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://twitch.tv",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://steampowered.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://linktr.ee",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://soundcloud.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://medium.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://openai.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://etsy.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://scribd.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://patreon.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://slack.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://epicgames.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://grammarly.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": true,
+      "secure_both": false,
+      "no_secure": false,
+      "has_possible": true,
+      "has_fedcm": false,
+      "weighted_score": 1
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": true,
+      "possible_found": true,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 2,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 1
+      }
+    }
+  },
+  {
+    "domain": "https://eventbrite.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://booking.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://godaddy.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://oracle.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://atlassian.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://lyft.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://cisco.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://airbnb.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://tripadvisor.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://nytimes.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://washingtonpost.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  },
+  {
+    "domain": "https://bbc.com",
+    "url_count": 1,
+    "classification": {
+      "secure_html_only": false,
+      "secure_network_only": false,
+      "secure_both": false,
+      "no_secure": true,
+      "has_possible": false,
+      "has_fedcm": false,
+      "weighted_score": 0
+    },
+    "indicators": {
+      "secure_html_found": false,
+      "secure_network_found": false,
+      "possible_found": false,
+      "fedcm_found": false,
+      "indicator_counts": {
+        "webauthn_inputs": 0,
+        "passkey_buttons": 0,
+        "secure_requests": 0,
+        "secure_responses": 0,
+        "possible_requests": 0,
+        "possible_responses": 0,
+        "passkey_requests": 0,
+        "passkey_responses": 0,
+        "fedcm_detections": 0,
+        "pattern_matches": 0
+      }
+    }
+  }
+]

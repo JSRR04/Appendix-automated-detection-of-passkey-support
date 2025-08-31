@@ -1,4 +1,0 @@
-collection,task_name,total_domains,domains_with_indicators,success_rate
-term_scraper,Term Scraper Lastpass v1,3488,407,11.668577981651376
-api_scraper,API Scraper Lastpass v1,3488,351,10.063073394495413
-network_scraper,Network Scraper Lastpass v1,3488,202,5.791284403669724

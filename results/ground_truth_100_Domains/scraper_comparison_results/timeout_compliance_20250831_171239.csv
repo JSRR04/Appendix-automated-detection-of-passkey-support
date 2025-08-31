@@ -1,0 +1,7 @@
+task_label,total,total_duration,duration_formatted,0-50%,50-100%,100-150%,>150%
+"Network Scraper Ground-Truth
+(network_scraper / 30s)",100,2928.5039307860243,00:48:48,1,69,26,4
+"API Scraper Ground-Truth
+(api_scraper / 30s)",100,2930.4568611830036,00:48:50,1,59,39,1
+"Term Scraper Ground-Truth
+(term_scraper / 30s)",100,2749.9113930000008,00:45:49,1,95,4,0
